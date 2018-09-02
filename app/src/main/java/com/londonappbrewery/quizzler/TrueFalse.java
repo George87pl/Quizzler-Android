@@ -14,15 +14,9 @@ public class TrueFalse {
         return mQuestionId;
     }
 
-    public void setmQuestionId(int mQuestionId) {
-        this.mQuestionId = mQuestionId;
-    }
 
     public boolean ismAnswer() {
         return mAnswer;
     }
 
-    public void setmAnswer(boolean mAnswer) {
-        this.mAnswer = mAnswer;
-    }
 }
